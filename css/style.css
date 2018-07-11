@@ -103,6 +103,7 @@
     border-right: 1px solid rgba(0,0,0,0.2);
 }
 
+
 /*Secondary Header*/
 .second-head{
   padding-top: 140px;
@@ -117,6 +118,14 @@
   background-color: #000;
 }
 
+.page-footer{
+  color: #fff;
+
+}
+
+.page-footer a{
+  color: #d08dbe;
+}
 
 
 
